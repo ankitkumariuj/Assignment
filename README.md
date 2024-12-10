@@ -19,6 +19,7 @@ Focus management for better navigation.
 # How to Run the Project
 
 git clone https://github.com/<your-username>/Assignment.git
+
 cd Assignment
 
 # Install dependencies
